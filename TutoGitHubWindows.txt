@@ -1,0 +1,27 @@
+Petit tuto pour bien commencer avec GitHub sur Windows
+
+
+Installation
+============
+Télécharger et installer ces logiciels:
+	http://windows.github.com/
+	*http://git-scm.com/downloads
+
+	*Ça se pourrait que le premier installe automatiqement le deuxième.
+	*Vérifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installé en les recherchant dans le menu "Démarrer"
+	*SVP modifier cette partie du tuto en conséquence!
+
+
+Cloner un repo de Github.com à votre machine
+==================================================
+Trouver votre Repo sur le site
+	EX: https://github.com/REI-UQO/CSGames2014
+
+Clic sur le bouton "Clone in Desktop" à droite
+Il sera cloner par défaut dans "Mes Documents/GitHub/CSGames2014"
+
+
+Travailler dans un repo
+=======================
+Vous voulez modifier les fichiers sur votre machine et envoyer les changements sur GitHub
+
