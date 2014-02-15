@@ -1,33 +1,33 @@
-Petit tuto pour bien commencer avec GitHub sur Windows
+﻿Petit tuto pour bien commencer avec GitHub sur Windows
 
 
 Installation
 ============
-T�l�charger et installer ces logiciels:
+Telecharger et installer ces logiciels:
 	http://windows.github.com/
 	*http://git-scm.com/downloads
 
-	*�a se pourrait que le premier installe automatiqement le deuxi�me.
-	*V�rifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont install� en les recherchant dans le menu "D�marrer"
-	*SVP modifier cette partie du tuto en cons�quence!
+	*Il se pourrait que le premier installe automatiqement le deuxieme.
+	*Verifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installe en les recherchant dans le menu "Demarrer"
+	*SVP modifier cette partie du tuto en consequence!
 
 
-Cloner un repo de Github.com � votre machine
-==================================================
+Cloner un repo de Github.com sur votre machine
+==============================================
 Trouver votre Repo sur le site
 	Ex: https://github.com/REI-UQO/CSGames2014
 
-Clic sur le bouton "Clone in Desktop" � droite
-Il sera cloner par d�faut dans "Mes Documents/GitHub/CSGames2014"
+Clic sur le bouton "Clone in Desktop" a droite
+Il sera cloner par defaut dans "Mes Documents/GitHub/CSGames2014"
 
 
 
-Envoyer vos modifications de votre machine � GitHub
-===================================================
-La suite d'�tapes habituelle est:
-	Pull:	On met les fichiers � jour sur notre machine
+Envoyer vos modifications de votre machine vers GitHub
+======================================================
+La suite d'etapes habituelle est:
+	Pull:	On met les fichiers a jour sur notre machine
 
-	R�p�ter tant qu'il reste des fichiers unstaged:
+	Repeter tant qu'il reste des fichiers unstaged:
 		Ajout : On ajoute des fichiers qui seront commit
 		Commit: On indique un message qui resume les modifications faites
 	
@@ -43,7 +43,7 @@ Dans le Dossier "Github":
 Supposons que je veux ajouter des fichiers, je fais:
 	
 	git pull	#Je met les fichiers de ma machine � jour
-	git status	#Affiche �tat du repo, on voit plusiers fichiers en rouges
+	git status	#Affiche etat du repo, on voit plusiers fichiers en rouges
 		
 		git add TutoGitHubWindows.txt	#Ajoute ce tutoriel
 		git commit -m "Tuto pour GitHub sur Windows"	#Breve explication du commit
@@ -55,9 +55,9 @@ Supposons que je veux ajouter des fichiers, je fais:
 		git commit -m "Screenshots du programme"
 
 		git add -A #Ajoute tout le reste des fichiers
-		git commit -m "Ajout d'un systeme qui �crit du code magiquement"
+		git commit -m "Ajout d'un systeme qui ecrit du code magiquement"
 		
-	git status 	#Je v�rifie que j'ai bien tout commit les fichiers que je voulais
+	git status 	#Je verifie que j'ai bien tout commit les fichiers que je voulais
 	
 	git push 	#Envoyer mes modifications vers le repo sur GitHub
 	#Remplir votre username Github et mot de passe
@@ -68,10 +68,10 @@ Avantage:
 	-Permet de visualiser les modifications faites aux fichiers.
 
 
-GitHub (programme install� pr�c�demment)
+GitHub (programme installe precedemment)
 ----------------------------------------
 Avantage:
-	-Permet de cloner � partir du site GitHub en un seul clic
+	-Permet de cloner a partir du site GitHub en un seul clic
 
 
 D�savantages de Git Gui et GitHub:
