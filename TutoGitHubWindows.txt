@@ -74,7 +74,7 @@ Avantage:
 	-Permet de cloner a partir du site GitHub en un seul clic
 
 
-D�savantages de Git Gui et GitHub:
+Desavantages de Git Gui et GitHub:
 	-Plus lent qu'en console parce qu'il faut utiliser la souris.
 	-Moins de commandes qu'en console. On ne peut pas mettre d'options
 
