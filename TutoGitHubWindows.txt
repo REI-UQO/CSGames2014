@@ -25,3 +25,10 @@ Travailler dans un repo
 =======================
 Vous voulez modifier les fichiers sur votre machine et envoyer les changements sur GitHub
 
+Il y a trois façons:
+
+
+Dans le Dossier "Github":
+	Clic-droit sur le dossier "CSGames2014"
+	Choisir "Git Bash" ou "Git GUI"
+	
