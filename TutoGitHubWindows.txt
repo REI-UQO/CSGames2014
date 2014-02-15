@@ -3,31 +3,31 @@ Petit tuto pour bien commencer avec GitHub sur Windows
 
 Installation
 ============
-Télécharger et installer ces logiciels:
+Tï¿½lï¿½charger et installer ces logiciels:
 	http://windows.github.com/
 	*http://git-scm.com/downloads
 
-	*Ça se pourrait que le premier installe automatiqement le deuxième.
-	*Vérifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installé en les recherchant dans le menu "Démarrer"
-	*SVP modifier cette partie du tuto en conséquence!
+	*ï¿½a se pourrait que le premier installe automatiqement le deuxiï¿½me.
+	*Vï¿½rifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installï¿½ en les recherchant dans le menu "Dï¿½marrer"
+	*SVP modifier cette partie du tuto en consï¿½quence!
 
 
-Cloner un repo de Github.com à votre machine
+Cloner un repo de Github.com ï¿½ votre machine
 ==================================================
 Trouver votre Repo sur le site
 	Ex: https://github.com/REI-UQO/CSGames2014
 
-Clic sur le bouton "Clone in Desktop" à droite
-Il sera cloner par défaut dans "Mes Documents/GitHub/CSGames2014"
+Clic sur le bouton "Clone in Desktop" ï¿½ droite
+Il sera cloner par dï¿½faut dans "Mes Documents/GitHub/CSGames2014"
 
 
 
-Envoyer vos modifications de votre machine à GitHub
+Envoyer vos modifications de votre machine ï¿½ GitHub
 ===================================================
-La suite d'étapes habituelle est:
-	Pull:	On met les fichiers à jour sur notre machine
+La suite d'ï¿½tapes habituelle est:
+	Pull:	On met les fichiers ï¿½ jour sur notre machine
 
-	Répéter tant qu'il reste des fichiers unstaged:
+	Rï¿½pï¿½ter tant qu'il reste des fichiers unstaged:
 		Ajout : On ajoute des fichiers qui seront commit
 		Commit: On indique un message qui resume les modifications faites
 	
@@ -42,8 +42,8 @@ Dans le Dossier "Github":
 
 Supposons que je veux ajouter des fichiers, je fais:
 	
-	git pull	#Je met les fichiers de ma machine à jour
-	git status	#Affiche état du repo, on voit plusiers fichiers en rouges
+	git pull	#Je met les fichiers de ma machine ï¿½ jour
+	git status	#Affiche ï¿½tat du repo, on voit plusiers fichiers en rouges
 		
 		git add TutoGitHubWindows.txt	#Ajoute ce tutoriel
 		git commit -m "Tuto pour GitHub sur Windows"	#Breve explication du commit
@@ -55,9 +55,9 @@ Supposons que je veux ajouter des fichiers, je fais:
 		git commit -m "Screenshots du programme"
 
 		git add -A #Ajoute tout le reste des fichiers
-		git commit -m "Ajout d'un systeme qui écrit du code magiquement"
+		git commit -m "Ajout d'un systeme qui ï¿½crit du code magiquement"
 		
-	git status 	#Je vérifie que j'ai bien tout commit les fichiers que je voulais
+	git status 	#Je vï¿½rifie que j'ai bien tout commit les fichiers que je voulais
 	
 	git push 	#Envoyer mes modifications vers le repo sur GitHub
 	#Remplir votre username Github et mot de passe
@@ -68,19 +68,26 @@ Avantage:
 	-Permet de visualiser les modifications faites aux fichiers.
 
 
-GitHub (programme installé précédemment)
+GitHub (programme installï¿½ prï¿½cï¿½demment)
 ----------------------------------------
 Avantage:
-	-Permet de cloner à partir du site GitHub en un seul clic
+	-Permet de cloner ï¿½ partir du site GitHub en un seul clic
 
 
-Désavantages de Git Gui et GitHub:
+Dï¿½savantages de Git Gui et GitHub:
 	-Plus lent qu'en console parce qu'il faut utiliser la souris.
 	-Moins de commandes qu'en console. On ne peut pas mettre d'options
 
 
+Bonnes pratiques
+----------------
+-Ã‰viter les commits messages du genre "Voici tout le travail que j'ai fait dimanche".
+	Si vous vous retrouver Ã  faire Ã§a, vous devez commit plus souvent vos changements.
+	Vous devez avoir un commit par bloc logique de changement.
+	Ex: "BUG RESOLU: Le programme crashait lorsqu'on cliquait trop vite sur le bouton 'OK' " 
 
-
+-Lorsque vous Ã©crivez vos messages commits, pensez Ã  la personne qui vient de se rÃ©veiller et qui va le lire. 
+	Parfois ce sera vous-mÃªme dans 1 an.
 
 
 
