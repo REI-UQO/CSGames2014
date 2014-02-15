@@ -24,8 +24,14 @@ Il sera cloner par défaut dans "Mes Documents/GitHub/CSGames2014"
 
 Envoyer vos modifications de votre machine à GitHub
 ===================================================
-La suite d'étape habituelle est:
-	Ajouter fichiers
+La suite d'étapes habituelle est:
+	Pull:	On met les fichiers à jour sur notre machine
+
+	Répéter tant qu'il reste des fichiers unstaged:
+		Ajout : On ajoute des fichiers qui seront commit
+		Commit: On indique un message qui resume les modifications faites
+	
+	Push:	On envoie les modifications vers GitHub
 
 
 Console Git Bash
@@ -34,7 +40,56 @@ Dans le Dossier "Github":
 	Clic-droit sur le dossier "CSGames2014"
 	Choisir "Git Bash"
 
-Les commandes les plus utilisées:
-	git status: affiche l'état de votre repo.
-		Vert: Fichier à commit
+Supposons que je veux ajouter des fichiers, je fais:
+	
+	git pull	#Je met les fichiers de ma machine à jour
+	git status	#Affiche état du repo, on voit plusiers fichiers en rouges
 		
+		git add TutoGitHubWindows.txt	#Ajoute ce tutoriel
+		git commit -m "Tuto pour GitHub sur Windows"	#Breve explication du commit
+
+		git add "*.txt"		#Ajoute tous les fichiers .txt
+		git commit -m "Beaucoup d'autres tutoriels"
+
+		git add "Screenshots/*.jpg"	 #Ajoute tous les fichiers .jpg du dossier "Screenshots"
+		git commit -m "Screenshots du programme"
+
+		git add -A #Ajoute tout le reste des fichiers
+		git commit -m "Ajout d'un systeme qui écrit du code magiquement"
+		
+	git status 	#Je vérifie que j'ai bien tout commit les fichiers que je voulais
+	
+	git push 	#Envoyer mes modifications vers le repo sur GitHub
+	#Remplir votre username Github et mot de passe
+
+Git Gui
+-------
+Avantage: 
+	-Permet de visualiser les modifications faites aux fichiers.
+
+
+GitHub (programme installé précédemment)
+----------------------------------------
+Avantage:
+	-Permet de cloner à partir du site GitHub en un seul clic
+
+
+Désavantages de Git Gui et GitHub:
+	-Plus lent qu'en console parce qu'il faut utiliser la souris.
+	-Moins de commandes qu'en console. On ne peut pas mettre d'options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
