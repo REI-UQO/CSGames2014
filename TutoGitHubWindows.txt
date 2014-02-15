@@ -15,20 +15,26 @@ Télécharger et installer ces logiciels:
 Cloner un repo de Github.com à votre machine
 ==================================================
 Trouver votre Repo sur le site
-	EX: https://github.com/REI-UQO/CSGames2014
+	Ex: https://github.com/REI-UQO/CSGames2014
 
 Clic sur le bouton "Clone in Desktop" à droite
 Il sera cloner par défaut dans "Mes Documents/GitHub/CSGames2014"
 
 
-Travailler dans un repo
-=======================
-Vous voulez modifier les fichiers sur votre machine et envoyer les changements sur GitHub
 
-Il y a trois façons:
+Envoyer vos modifications de votre machine à GitHub
+===================================================
+La suite d'étape habituelle est:
+	Ajouter fichiers
 
 
+Console Git Bash
+----------------
 Dans le Dossier "Github":
 	Clic-droit sur le dossier "CSGames2014"
-	Choisir "Git Bash" ou "Git GUI"
-	
+	Choisir "Git Bash"
+
+Les commandes les plus utilisées:
+	git status: affiche l'état de votre repo.
+		Vert: Fichier à commit
+		
