@@ -1,5 +1,5 @@
 ﻿Petit tuto pour bien commencer avec GitHub sur Windows
-﻿======================================================
+======================================================
 
 
 Installation
