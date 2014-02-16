@@ -4,86 +4,86 @@
 Équipe 1
 --------
 AI : 
-  Maxime Dupuis 
-  Maxime Godon 
-  Alexandre M-P 
+- Maxime Dupuis 
+- Maxime Godon 
+- Alexandre M-P 
   
 Web : 
-  Alexandre Sauvé 
+- Alexandre Sauvé 
   
 Relay : 
-  Maxime Dupuis 
-  Alexandre M-P 
+- Maxime Dupuis 
+- Alexandre M-P 
 
 Crypto : 
-  Maxime Godon 
-  Alexandre M-P 
+- Maxime Godon 
+- Alexandre M-P 
   
 Database : 
-  Alexandre M-P 
-  Alexandre Sauvé 
+- Alexandre M-P 
+- Alexandre Sauvé 
 
 Embedded : 
-  Maxime Dupuis
-  Jérémie St-Pierre Robitaille
+- Maxime Dupuis
+- Jérémie St-Pierre Robitaille
   
 Gaming : 
-  Jérémie St-Pierre Robitaille 
+- Jérémie St-Pierre Robitaille 
   
 Team software : 
-  Marc-André Therrien 
-  Alexandre M-P
-  Maxime Dupuis
+- Marc-André Therrien 
+- Alexandre M-P
+- Maxime Dupuis
   
 Sports : 
-  Marc-André Therrien 
-  Cornelus Madjir
-  Maxime Dupuis
+- Marc-André Therrien 
+- Cornelus Madjir
+- Maxime Dupuis
   
 Scavenger hunt : 
 
 Theoretical computer science :
-  Maxime Godon
+- Maxime Godon
   
 CSEC-Corpo:
 
 GUAVUS-Corpo:
 
 CGI-Corpo:
-  Maxime Dupuis
+- Maxime Dupuis
   
 Équipe 2
 --------
 AI : 
-  Antoine Robertson 
-  Antoine Quenneville 
+- Antoine Robertson 
+- Antoine Quenneville 
   
 Web : 
-  Chris Barrieau 
-  William Wright 
+- Chris Barrieau 
+- William Wright 
   
 Relay : 
-  Chris Barrieau 
+- Chris Barrieau 
   
 Crypto : 
 
 Database : 
-  Cornelus Madjir 
-  William Wright 
+- Cornelus Madjir 
+- William Wright 
   
 Embedded : 
-  William Wright 
+- William Wright 
   
 Gaming : 
-  Antoine Quenneville 
-  Antoine Robertson 
+- Antoine Quenneville 
+- Antoine Robertson 
   
 Team software : 
 
 Sports : 
-  Chris Barrieau 
-  Cornelus Madjir 
-  William Wright 
+- Chris Barrieau 
+- Cornelus Madjir 
+- William Wright 
   
 Scavenger hunt : 
 
