@@ -9,7 +9,9 @@ Telecharger et installer ces logiciels:
 - *http://git-scm.com/downloads
 
 *Il se pourrait que le premier installe automatiqement le deuxieme.
+
 *Verifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installe en les recherchant dans le menu "Demarrer"
+
 *SVP modifier cette partie du tuto en consequence!
 
 
