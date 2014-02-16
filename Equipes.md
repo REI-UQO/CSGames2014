@@ -12,7 +12,6 @@ Web :
 - Alexandre Sauvé 
   
 Relay : 
-- Maxime Dupuis 
 - Alexandre M-P 
 
 Crypto : 
