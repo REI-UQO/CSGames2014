@@ -27,13 +27,13 @@ Il sera cloner par defaut dans "Mes Documents/GitHub/CSGames2014"
 Envoyer vos modifications de votre machine vers GitHub
 ======================================================
 La suite d'etapes habituelle est:
-	- Pull:	On met les fichiers a jour sur notre machine
+- Pull:	On met les fichiers a jour sur notre machine
 
-	- Repeter tant qu'il reste des fichiers unstaged:
-		+ Ajout : On ajoute des fichiers qui seront commit
-		+ Commit: On indique un message qui resume les modifications faites
+- Repeter tant qu'il reste des fichiers unstaged:
+	+ Ajout : On ajoute des fichiers qui seront commit
+	+ Commit: On indique un message qui resume les modifications faites
 	
-	- Push:	On envoie les modifications vers GitHub
+- Push:	On envoie les modifications vers GitHub
 
 
 Console Git Bash
