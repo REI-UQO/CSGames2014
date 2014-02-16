@@ -30,8 +30,8 @@ La suite d'etapes habituelle est:
 	- Pull:	On met les fichiers a jour sur notre machine
 
 	- Repeter tant qu'il reste des fichiers unstaged:
-		- - Ajout : On ajoute des fichiers qui seront commit
-		- - Commit: On indique un message qui resume les modifications faites
+		+ Ajout : On ajoute des fichiers qui seront commit
+		+ Commit: On indique un message qui resume les modifications faites
 	
 	- Push:	On envoie les modifications vers GitHub
 
