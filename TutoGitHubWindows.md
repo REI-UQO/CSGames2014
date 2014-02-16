@@ -16,7 +16,8 @@ Telecharger et installer ces logiciels:
 Cloner un repo de Github.com sur votre machine
 ==============================================
 Trouver votre Repo sur le site
-	Ex: https://github.com/REI-UQO/CSGames2014
+
+Ex: https://github.com/REI-UQO/CSGames2014
 
 Clic sur le bouton "Clone in Desktop" a droite
 Il sera cloner par defaut dans "Mes Documents/GitHub/CSGames2014"
