@@ -66,20 +66,20 @@ Supposons que je veux ajouter des fichiers, je fais:
 Git Gui
 -------
 Avantage: 
-	- Permet de visualiser les modifications faites aux fichiers.
+- Permet de visualiser les modifications faites aux fichiers.
 
 Desavantages
-	- Plus lent qu'en console parce qu'il faut utiliser la souris.
-	- Moins de commandes qu'en console. On ne peut pas mettre d'options
+- Plus lent qu'en console parce qu'il faut utiliser la souris.
+- Moins de commandes qu'en console. On ne peut pas mettre d'options
 
 GitHub (programme installe precedemment)
 ----------------------------------------
 Avantage:
-	- Permet de cloner a partir du site GitHub en un seul clic
+- Permet de cloner a partir du site GitHub en un seul clic
 
-Desavantages
-	- Plus lent qu'en console parce qu'il faut utiliser la souris.
-	- Moins de commandes qu'en console. On ne peut pas mettre d'options
+Desavantages:
+- Plus lent qu'en console parce qu'il faut utiliser la souris.
+- Moins de commandes qu'en console. On ne peut pas mettre d'options
 
 
 
