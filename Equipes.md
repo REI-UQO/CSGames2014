@@ -9,7 +9,6 @@ AI :
 - Alexandre M-P 
   
 Web : 
-- Alexandre Sauvé 
   
 Relay : 
 - Alexandre M-P 
@@ -20,7 +19,6 @@ Crypto :
   
 Database : 
 - Alexandre M-P 
-- Alexandre Sauvé 
 
 Embedded : 
 - Maxime Dupuis
@@ -45,11 +43,12 @@ Theoretical computer science :
 - Maxime Godon
   
 CSEC-Corpo:
-
+- Alexandre Sauvé
 GUAVUS-Corpo:
-
+- Alexandre Sauvé
 CGI-Corpo:
 - Maxime Dupuis
+- Alexandre Sauvé
   
 Équipe 2
 --------
