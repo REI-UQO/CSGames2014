@@ -44,8 +44,10 @@ Theoretical computer science :
   
 CSEC-Corpo:
 - Alexandre Sauvé
+- 
 GUAVUS-Corpo:
 - Alexandre Sauvé
+- 
 CGI-Corpo:
 - Maxime Dupuis
 - Alexandre Sauvé
@@ -93,7 +95,9 @@ Theoretical computer science :
 
 CSEC-Corpo:
 
+
 GUAVUS-Corpo:
+
 
 CGI-Corpo:
 
