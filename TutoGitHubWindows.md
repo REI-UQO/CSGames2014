@@ -5,22 +5,21 @@
 Installation
 ============
 Telecharger et installer ces logiciels:
-	- http://windows.github.com/
-	- *http://git-scm.com/downloads
+- http://windows.github.com/
+- *http://git-scm.com/downloads
 
-	*Il se pourrait que le premier installe automatiqement le deuxieme.
-	*Verifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installe en les recherchant dans le menu "Demarrer"
-	*SVP modifier cette partie du tuto en consequence!
+*Il se pourrait que le premier installe automatiqement le deuxieme.
+*Verifier si les programmes "GitHub", "Git GUI" et "Git Bash" sont installe en les recherchant dans le menu "Demarrer"
+*SVP modifier cette partie du tuto en consequence!
 
 
 Cloner un repo de Github.com sur votre machine
 ==============================================
-Trouver votre Repo sur le site
+- Trouver votre Repo sur le site
+	Ex: https://github.com/REI-UQO/CSGames2014
 
-Ex: https://github.com/REI-UQO/CSGames2014
-
-Clic sur le bouton "Clone in Desktop" a droite
-Il sera cloner par defaut dans "Mes Documents/GitHub/CSGames2014"
+-Clic sur le bouton "Clone in Desktop" a droite
+	Il sera cloner par defaut dans "Mes Documents/GitHub/CSGames2014"
 
 
 
