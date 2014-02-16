@@ -63,6 +63,7 @@ Web :
   
 Relay : 
 - Chris Barrieau 
+- Ludovic Couture-Niles
   
 Crypto : 
 
@@ -78,13 +79,16 @@ Gaming :
 - Antoine Robertson 
   
 Team software : 
+- Ludovic Couture-Niles
 
 Sports : 
 - Chris Barrieau 
 - Cornelus Madjir 
 - William Wright 
+- Ludovic Couture-Niles
   
 Scavenger hunt : 
+- Ludovic Couture-Niles
 
 Theoretical computer science :
 
