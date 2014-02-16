@@ -35,8 +35,7 @@ Team software :
 Sports : 
 - Marc-André Therrien 
 - Cornelus Madjir
-- Maxime Dupuis
-  
+
 Scavenger hunt : 
 
 Theoretical computer science :
